@@ -6,8 +6,8 @@ Although there isn’t much use of a calculator, however, building your graphica
 # Output
 
 
-![Calculator](images/calc0.jpg "Calc")
+![Calculator](images/calc0.JPG "Calc")
 
-![Calculator](images/calc1.jpg "Calc")
+![Calculator](images/calc1.JPG "Calc")
 
-![Calculator](images/calc.jpg "Calc")
+![Calculator](images/calc.JPG "Calc")
